@@ -1,4 +1,6 @@
-使用：引入util.js
+#### How to use ?
+
+Introduce util.js
 <body>
   <div id="show">
   </div>
